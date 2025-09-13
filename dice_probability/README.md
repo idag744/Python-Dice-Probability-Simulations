@@ -32,3 +32,7 @@ dice_probability/
 ├── visualizations.py
 └── examples.ipynb
 
+## Run Simulations in python
+
+jupyter notebook examples.ipynb
+
